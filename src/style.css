@@ -1,0 +1,23 @@
+.heading {
+    font-weight: 700;
+    font-family: "Courier New", Courier, monospace;
+    font-size: medium;
+    font-style: normal;
+    color: black;
+    margin-left: 0.5rem;
+  }
+  .heading-3 {
+    font-weight: 800;
+    font-family: "Courier New", Courier, monospace;
+    font-style: normal;
+    font-size: large;
+    color: black;
+    margin-left: 0.5rem;
+  }
+  .content {
+    margin-left: 0.5rem;
+    font-weight: 400;
+    font-family: "Courier New", Courier, monospace;
+    font-style: normal;
+    color: black;
+  }
